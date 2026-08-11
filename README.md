@@ -63,7 +63,21 @@ The project uses the **MNIST Handwritten Digits Dataset**.
 - 🔢 Number of classes: **10**
 - 🏷️ Classes: **0, 1, 2, 3, 4, 5, 6, 7, 8, 9**
 
+### 📥 Download the Dataset
+
 The raw CSV dataset files are not included in this repository because of their relatively large file size.
+You can easily download the exact CSV-format dataset used in this project from Kaggle:
+
+👉 **[MNIST in CSV – Kaggle](https://www.kaggle.com/datasets/oddrationale/mnist-in-csv)**
+
+The dataset contains:
+
+- `mnist_train.csv` — 60,000 training examples
+- `mnist_test.csv` — 10,000 test examples
+
+Each row contains **785 values**: one label followed by 784 pixel values corresponding to the 28 × 28 image. :contentReference[oaicite:1]{index=1}
+
+After downloading, place both CSV files in the location expected by the notebook and run the notebook.
 
 ---
 
@@ -77,6 +91,7 @@ The raw CSV dataset files are not included in this repository because of their r
 - 🤖 **Scikit-learn**
 - 🧠 **TensorFlow / Keras**
 - ☁️ **Google Colab / Jupyter Notebook**
+- 📦 **Kaggle**
 
 ---
 
