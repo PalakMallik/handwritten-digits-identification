@@ -142,6 +142,18 @@ The **diagonal values** represent correctly classified images, while the off-dia
 
 ---
 
+## 📸 Results & Visualizations
+
+### 🧩 Confusion Matrix
+
+![CNN Confusion Matrix](images/CNN_confusion_matrix.png)
+
+### 📈 Sample Predictions
+
+![Sample Predictions](images/sample_predictions.png)
+
+---
+
 ## 🚀 How to Run
 
 ### 1️⃣ Clone the Repository
