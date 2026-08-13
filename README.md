@@ -1,6 +1,6 @@
-# ✍️ Handwritten Digits Identification using CNN
+# ✍️ Handwritten Digits Recognition using CNN
 
-A deep learning project for identifying handwritten digits **(0–9)** using a **Convolutional Neural Network (CNN)** trained on the MNIST dataset.
+A deep learning project for recognizing handwritten digits **(0–9)** using a **Convolutional Neural Network (CNN)** trained on the MNIST dataset.
 
 ---
 
